@@ -1,4 +1,4 @@
-# Auturname:
+# Author:
 
 - Hyeju Hong
 
